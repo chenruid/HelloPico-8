@@ -7,7 +7,7 @@
 ![copy the code then paste it in the interface](/Hello Pico-8/copy code.gif)
 
 ### Create a GIF of you typing the code
-![print hello <myname>](/Hello Pico-8/print command.gif)
+![print hello plus name](/Hello Pico-8/print command.gif)
 
 ### Create a GIF of you navigating the SPLORE menu
 ![navigating the splore menu](/Hello Pico-8/splore.gif)
