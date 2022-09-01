@@ -53,6 +53,7 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Image
 
 ![PICO-8 folder that contains](/Hello Pico-8/1.png)
+![](/Hello Pico-8/copy code.gif)
 
 ## Extended Syntax
 
