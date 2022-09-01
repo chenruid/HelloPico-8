@@ -1,1 +1,1 @@
-# chenruid.github.io
+# Used for CS 477
