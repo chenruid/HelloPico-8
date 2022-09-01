@@ -1,7 +1,7 @@
 ### Create a GIF of you loading any game from the PICO-8 carts website
 ![Load a game through splore](/Hello Pico-8/load a game1.gif)
 
-![Load a game through local demos](/Hello Pico-8/load a game2.gif)
+![Load a game through local demos](/Hello Pico-8/load a game 2.gif)
 
 ### Create a GIF of you pasting code from an existing PICO-8 game 
 ![copy the code then paste it in the interface](/Hello Pico-8/copy code.gif)
