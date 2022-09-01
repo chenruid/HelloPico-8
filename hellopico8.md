@@ -1,5 +1,3 @@
-
-
 ### Create a GIF of you loading any game from the PICO-8 carts website
 ![Load a game through splore](/Hello Pico-8/load a game1.gif)
 
@@ -9,7 +7,7 @@
 ![copy the code then paste it in the interface](/Hello Pico-8/copy code.gif)
 
 ### Create a GIF of you typing the code
-![print hello world](/Hello Pico-8/print command.gif)
+![print hello <myname>](/Hello Pico-8/print command.gif)
 
 ### Create a GIF of you navigating the SPLORE menu
 ![navigating the splore menu](/Hello Pico-8/splore.gif)
